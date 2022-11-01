@@ -141,10 +141,12 @@ UNBUILDABLE_IMAGES = {
     'debian+binary': {
         "nova-serialproxy",      # no binary package
         "tacker-base",           # no binary package
+        "ec2-api",
     },
 
     'ubuntu+binary': {
         "cloudkitty-base",  # no binary packages in UCA
+        "ec2-api",
         "senlin-conductor",  # no binary package
         "senlin-health-manager",  # no binary package
         "tacker-base",
