@@ -166,6 +166,7 @@ UNBUILDABLE_IMAGES = {
 
     'ubuntu+binary': {
         "cloudkitty-base",  # no binary packages in UCA
+        "ec2-api",
         "rally",
         "senlin-conductor",  # no binary package
         "senlin-health-manager",  # no binary package
