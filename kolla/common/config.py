@@ -85,6 +85,7 @@ _PROFILE_OPTS = [
                     'blazar',
                     'cloudkitty',
                     'designate',
+                    'ec2-api',
                     'freezer',
                     'gnocchi',
                     'influxdb',
